@@ -9,8 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <!--<neo4j.version>2.2.3</neo4j.version>-->
-        <neo4j.version>1.9.8</neo4j.version>
+        <neo4j.version>2.2.3</neo4j.version>
         <!--<jetty.version>9.2.7.v20150116</jetty.version> -->
         <jetty.version>9.2.4.v20141103</jetty.version>
         <junit.version>4.11</junit.version>
