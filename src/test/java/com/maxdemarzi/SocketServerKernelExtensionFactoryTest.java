@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class SocketKernelExtensionFactoryTest {
+public class SocketServerKernelExtensionFactoryTest {
 
     @Before
     public void setUp() throws Exception {
@@ -20,4 +20,5 @@ public class SocketKernelExtensionFactoryTest {
     public void testNewKernelExtension() throws Exception {
 
     }
+
 }
